@@ -1,0 +1,9 @@
+Kevin Buie
+The process used was a lot of opening and closing the vimrc.  After writing the contents required, I saw my changes that I made.  The main hurdles I encountered would be not knowing the commands and how to use them
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
